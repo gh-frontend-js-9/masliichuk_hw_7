@@ -108,3 +108,20 @@ Challenge 5
 
 1.URL:https://edabit.com/challenge/2FF7RKw9RLwc3EBY9
 2.Solution:http://joxi.ru/zANgMxRTvQkgBr
+
+Scope
+
+Challenge 1
+
+1.URL:https://edabit.com/challenge/9tJ97HK3c4Koy3KsF
+2.Solution:http://joxi.ru/l2ZOK0JIzKqzjA
+
+Challenge 2
+
+1.URL:https://edabit.com/challenge/wTQpSEZPpPdyLtK9k
+2.Solution:http://joxi.ru/823PW07t9o13YA
+
+Challenge 3
+
+1.URL:https://edabit.com/challenge/ejzLBYvAtAiKk9HnP
+2.Solution:http://joxi.ru/Q2KNgOKULnBVVm
