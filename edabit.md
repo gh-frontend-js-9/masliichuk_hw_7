@@ -135,3 +135,31 @@ Challenge 5
 
 1.URL:https://edabit.com/challenge/w5LTwJwDLK4uQ3Dmv
 2.Solution:http://joxi.ru/vAWaWg7Sgp9MDm
+
+Objects
+
+Challenge 1
+
+1.URL:https://edabit.com/challenge/i6YqzHcSiPiEQKjeX
+2.Solution:http://joxi.ru/J2b8xvpt0jdxZr
+
+Challenge 2
+
+1.URL:https://edabit.com/challenge/pPNAs5PvB3WvnDwDM
+2.Solution:http://joxi.ru/1A5PLjltDBgJv2
+
+Challenge 3
+
+1.URL:https://edabit.com/challenge/Hgb38yhWGwJCMHbRQ
+2.Solution:http://joxi.ru/5mdJ1wbi3jbwoA
+
+Challenge 4
+
+1.URL:https://edabit.com/challenge/AP4hnF97anRc2mAZ6
+2.Solution:http://joxi.ru/Grq4l3Pt4oexOA
+
+Challenge 5
+
+1.URL:https://edabit.com/challenge/5Yt2CrYdrJvoJFHRt
+2.Solution:http://joxi.ru/5mdJ1wbi3N4JLA
+
