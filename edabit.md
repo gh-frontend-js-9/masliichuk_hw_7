@@ -125,3 +125,13 @@ Challenge 3
 
 1.URL:https://edabit.com/challenge/ejzLBYvAtAiKk9HnP
 2.Solution:http://joxi.ru/Q2KNgOKULnBVVm
+
+Challenge 4
+
+1.URL:https://edabit.com/challenge/6ALbTxgu8BZaa6YYN
+2.Solution:http://joxi.ru/brRWg7XI75KOym
+
+Challenge 5
+
+1.URL:https://edabit.com/challenge/w5LTwJwDLK4uQ3Dmv
+2.Solution:http://joxi.ru/vAWaWg7Sgp9MDm
